@@ -1,0 +1,4 @@
+interface:
+  display_name: "实景延伸彩色插画旅行海报"
+  short_description: "将实景照片延伸成上下对半、色彩协调并保留大面积留白的旅行插画海报"
+  default_prompt: "使用 $photo-color-extension-poster 将上传照片分别制作成实景延伸彩色插画旅行海报。"
